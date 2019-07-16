@@ -1,6 +1,8 @@
 ---
-title：markdown test
+layout: post
+title: You're up and running!
 ---
+
 
 #这是一级标题
 
