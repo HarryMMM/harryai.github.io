@@ -1,6 +1,7 @@
 ---
 layout: post
 title: markdown test
+color: blue
 ---
 
 
